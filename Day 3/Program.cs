@@ -11,10 +11,10 @@ namespace Day3Assignment
     {
         static void Main(string[] args)
         {
-            // Manager m = new Manager("ceo","anjali",2,1500);
-            // Manager m1 = new Manager("ceo", "anj", 3, 2500);
+            // Manager m = new Manager("ceo","Suraj",2,1500);
+            // Manager m1 = new Manager("ceo", "s", 3, 2500);
             Console.WriteLine("======");
-            GenralManger m1 = new GenralManger("sir", "ceo", "anjali", 2, 2500);
+            GenralManger m1 = new GenralManger("sir", "ceo", "Suraj", 2, 2500);
             Console.ReadLine();
 
 
@@ -200,7 +200,7 @@ public class GenralManger : Manager
 }
 public class CEO : Employee
 {
-    public CEO(string name = "Abhi", decimal basic = 100, short deptno = 10) : base(name, deptno, basic)
+    public CEO(string name = "ABC", decimal basic = 100, short deptno = 10) : base(name, deptno, basic)
     {
     }
     public override decimal BASIC
