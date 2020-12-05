@@ -1,0 +1,7 @@
+E:\CDAC\Technical\MS .NET\assignment\Assignment 5\Que1\bin\Debug\Que1.exe.config
+E:\CDAC\Technical\MS .NET\assignment\Assignment 5\Que1\bin\Debug\Que1.exe
+E:\CDAC\Technical\MS .NET\assignment\Assignment 5\Que1\bin\Debug\Que1.pdb
+E:\CDAC\Technical\MS .NET\assignment\Assignment 5\Que1\obj\Debug\Que1.csprojAssemblyReference.cache
+E:\CDAC\Technical\MS .NET\assignment\Assignment 5\Que1\obj\Debug\Que1.csproj.CoreCompileInputs.cache
+E:\CDAC\Technical\MS .NET\assignment\Assignment 5\Que1\obj\Debug\Que1.exe
+E:\CDAC\Technical\MS .NET\assignment\Assignment 5\Que1\obj\Debug\Que1.pdb
